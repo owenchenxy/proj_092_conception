@@ -12,7 +12,8 @@
 + 标明哪些流程/组件是已有的，哪些是缺失的
 
 如下是一个示例：
-<img src="./images/架构图示例.png" alt="架构图示例" align="left" />
+
+<img src="./images/架构图示例.png" alt="架构图示例" align="center" />
 
 ## 基础设施架构图
 请描述现有基础设施的架构：
@@ -22,7 +23,9 @@
 + 服务器的操作系统版本
 
 如下是一个示例：
-<img src="./images/拓扑图示例.png" alt="拓扑图示例" align="left" />
+
+<img src="./images/拓扑图示例.png" alt="拓扑图示例" align="center" />
+
 ## 需求的文字描述
 请基于上面的架构图尽量详细的描述需求，便于我们评估工作量
 ```
